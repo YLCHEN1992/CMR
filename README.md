@@ -1,1 +1,1 @@
-![Workflow Diagram](images/workflow_diagram.png "Workflow Diagram")
+![Workflow Diagram](https://github.com/YLCHEN1992/CMR/blob/main/mode.png "Workflow Diagram")
